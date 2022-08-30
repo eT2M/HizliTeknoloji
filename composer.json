@@ -1,6 +1,6 @@
 {
     "name": "et2m/hizliteknoloji",
-    "description": "Hılzı Teknoloji ( Hızlı Bilişim ) E Dönüşüm Paketi",
+    "description": "Hızlı Teknoloji ( Hızlı Bilisim ) E Dönüsüm Paketi",
     "type": "library",
     "keywords": ["Hizliteknoloji", "HızliBilisim", "eFatura", "eArsiv", "laravel"],
     "license": "MIT",
