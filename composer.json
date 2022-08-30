@@ -1,0 +1,27 @@
+{
+    "name": "et2m/hizliteknoloji",
+    "description": "Hılzı Teknoloji ( Hızlı Bilişim ) E Dönüşüm Paketi",
+    "type": "library",
+    "keywords": ["Hizliteknoloji", "HızliBilisim", "eFatura", "eArsiv", "laravel"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Et2m\\HizliTeknoloji\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehmet ÖZDEMİR",
+            "email": "mehmet@et2m.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "eT2M\\HizliTeknoloji\\HizliTeknolojiServiceProvider"
+            ]
+        }
+    }
+}
