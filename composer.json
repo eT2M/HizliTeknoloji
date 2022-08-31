@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Et2m\\HizliTeknoloji\\": "src/"
+            "eT2M\\HizliTeknoloji\\": "src/"
         }
     },
     "authors": [
